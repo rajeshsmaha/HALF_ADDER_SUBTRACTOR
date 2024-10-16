@@ -49,6 +49,7 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+```
 **Half_adder**
 module halfadd_top(a,b,sum,carry);
 input a,b;
@@ -67,7 +68,7 @@ endmodule
 
 Developed by: Sana Fathima H
 RegisterNumber: 212223240145
-
+```
 **RTL Schematic HALF_ADDER**
 ![image](https://github.com/user-attachments/assets/d0810fb5-b1a5-4285-b25d-562eda9b2e60)
 
