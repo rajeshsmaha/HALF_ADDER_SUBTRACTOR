@@ -65,8 +65,8 @@ assign D = a ^ b;
   assign Bo = ~a & b;
 endmodule
 
-Developed by: Sana Fathima H
-RegisterNumber: 212223240145
+Developed by: D.RAJESHWARAN
+RegisterNumber: 212223240165
 ```
 **RTL Schematic HALF_ADDER**
 ![image](https://github.com/user-attachments/assets/d0810fb5-b1a5-4285-b25d-562eda9b2e60)
