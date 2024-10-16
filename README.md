@@ -3,7 +3,6 @@
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
-
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
 **Equipments Required:**
